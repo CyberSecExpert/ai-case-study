@@ -72,11 +72,11 @@ These technologies represent the latest and greatest advancements available to a
 
 
 ## References
-https://www.insidetracker.com/about/
-https://www.forbes.com/health/wellness/insidetracker-review/
-https://www.cbinsights.com/company/segterra
-https://www.crunchbase.com/organization/segterra-insidetracker
-https://www.owler.com/company/insidetracker
-https://www.viome.com/company
-https://www.functionhealth.com/about
-https://www.longevityadvice.com/blood-tests/
+- https://www.insidetracker.com/about/
+- https://www.forbes.com/health/wellness/insidetracker-review/
+- https://www.cbinsights.com/company/segterra
+- https://www.crunchbase.com/organization/segterra-insidetracker
+- https://www.owler.com/company/insidetracker
+- https://www.viome.com/company
+- https://www.functionhealth.com/about
+- https://www.longevityadvice.com/blood-tests/
