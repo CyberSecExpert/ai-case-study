@@ -23,10 +23,9 @@ The company utilizes various technologies to integrate and analyze data from mul
 
 -	Big Data technologies to handle large volumes of data.
 -	Machine Learning to identify patterns and correlations in data.
-•	Predictive Analytics to forecast potential health risks and suggest preventive measures.
-•	Artificial Intelligence to tailor advice based on individual data profiles.
-•	Natural Language Processing to interpret and personalize  
-feedback and recommendations.
+- Predictive Analytics to forecast potential health risks and suggest preventive measures.
+- Artificial Intelligence to tailor advice based on individual data profiles.
+- Natural Language Processing to interpret and personalize feedback and recommendations.
 - Decision-Support algorithms that translate scientific research into actionable guidance. 
 
 
@@ -36,21 +35,21 @@ InsideTracker is in the health and wellness field, especially within the subdoma
 
 The major trends and innovations in this field over the last 5 to 10 years have been:
 
-•	Genomic Sequencing: The cost of genomic sequencing has dropped significantly, making it more accessible.
-•	Fitness Trackers and Smartwatches: Devices from Fitbit, Apple, Garmin, and others now offer continuous monitoring of health rates, activity levels, sleep patterns, oxygen levels, and other health metrics.
-•	Remote Patient Monitoring: Wearables and home health devices enable continuous monitoring of patients.
-•	Predictive Analytics: AI and machine learning are used to analyze vast amounts of health data to predict health risks, personalize treatment plans, and improve diagnostic accuracy.
-•	Virtual Health Assistants: AI-powered chatbots and virtual assistants provide users with health advice, symptom checking, and medication reminders.
-•	Electronic Health Records: EHRs have become more widespread, facilitating better data sharing and integration across healthcare systems.
-•	Health Data Analytics: Big data analytics are being used to identify population health trends, improve healthcare delivery, and drive research.
+- Genomic Sequencing: The cost of genomic sequencing has dropped significantly, making it more accessible.
+- Fitness Trackers and Smartwatches: Devices from Fitbit, Apple, Garmin, and others now offer continuous monitoring of health rates, activity levels, sleep patterns, oxygen levels, and other health metrics.
+- Remote Patient Monitoring: Wearables and home health devices enable continuous monitoring of patients.
+- Predictive Analytics: AI and machine learning are used to analyze vast amounts of health data to predict health risks, personalize treatment plans, and improve diagnostic accuracy.
+- Virtual Health Assistants: AI-powered chatbots and virtual assistants provide users with health advice, symptom checking, and medication reminders.
+- Electronic Health Records: EHRs have become more widespread, facilitating better data sharing and integration across healthcare systems.
+- Health Data Analytics: Big data analytics are being used to identify population health trends, improve healthcare delivery, and drive research.
 
 Other major companies in this field are:
 
-•	23andMe: Focused on genetic testing and ancestry analysis, with health reports based on genetic information.
-•	EverlyWell: Focused on at-home health testing kits for a variety of biomarkers, including food sensitivities, hormones, and vitamin levels.
-•	WellnessFX: Focused on blood testing and personalized health insights.
-•	Forward: Focused on preventive primary care with advanced technology integration.
-•	Function Health: Focused on comprehensive blood biomarker testing and personalized health insights.
+- 23andMe: Focused on genetic testing and ancestry analysis, with health reports based on genetic information.
+- EverlyWell: Focused on at-home health testing kits for a variety of biomarkers, including food sensitivities, hormones, and vitamin levels.
+- WellnessFX: Focused on blood testing and personalized health insights.
+- Forward: Focused on preventive primary care with advanced technology integration.
+- Function Health: Focused on comprehensive blood biomarker testing and personalized health insights.
 
 
 ## Results
