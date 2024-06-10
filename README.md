@@ -64,7 +64,7 @@ InsideTracker has a growing user base, similar to competitors like 23andMe and E
 
 InsideTracker should consider expanding its testing offerings to include testing for microbiomes and offering customized supplements similar to what Viome offers.
 
-This would benefit the company by providing opportunities for revenue growth and increasing customer engagement, satisfaction, and retention by becoming a one-stop shop for health insights along with an easy way for customers to implement them via simplified customized supplement plans. 
+This would benefit the company by providing more opportunities for revenue growth and increasing customer engagement, satisfaction, and retention by becoming a one-stop shop for health insights along with an easy way for customers to implement them via simplified customized supplement plans. 
 
 The expansion to microbiome testing would require the implementation of RNA sequencing. An option that would require minimal capital investment to expand this offering would be outsourcing the RNA sequencing to a third-party lab. The integration of the data from the RNA sequencing would utilize the same technologies currently implemented at InsideTracker such as Big Data, Machine Learning, Artificial Intelligence, Predictive Analytics, and Decision-Support Algorithms. Customized supplement plans could also be implemented via the engagement of a strategic partner already in the supplement manufacturing space.  
 
