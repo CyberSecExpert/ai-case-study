@@ -1,6 +1,7 @@
 # ai-case-study
 Columbia Engineering AI Module 1 Challenge
 
+
 # InsideTracker Case Study
 
 ## Overview and Origin
@@ -20,8 +21,8 @@ InsideTracker distinguishes itself from competitors through several unique solut
 
 The company utilizes various technologies to integrate and analyze data from multiple sources. These technologies include:
 
-•	Big Data technologies to handle large volumes of data.
-•	Machine Learning to identify patterns and correlations in data.
+-	Big Data technologies to handle large volumes of data.
+-	Machine Learning to identify patterns and correlations in data.
 •	Predictive Analytics to forecast potential health risks and suggest preventive measures.
 •	Artificial Intelligence to tailor advice based on individual data profiles.
 •	Natural Language Processing to interpret and personalize  
