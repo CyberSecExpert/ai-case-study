@@ -1,5 +1,5 @@
 # ai-case-study
-Columbia Engineering AI Module 1 Challenge
+Columbia Engineering AI - Module 1 Challenge
 
 
 # InsideTracker Case Study
@@ -62,7 +62,7 @@ InsideTracker has a growing user base, similar to competitors like 23andMe and E
 
 ## Recommendations
 
-I advise InsideTracker to consider expanding its testing offerings to include testing for microbiomes and offering customized supplements similar to what Viome offers.
+InsideTracker could to consider expanding its testing offerings to include testing for microbiomes and offering customized supplements similar to what Viome offers.
 
 This would benefit the company by providing opportunities for revenue growth and increasing customer engagement, satisfaction, and retention by becoming a one-stop shop for health insights along with an easy way for customers to implement them via simplified customized supplement plans. 
 
