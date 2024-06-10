@@ -73,7 +73,7 @@ These technologies represent the latest and greatest advancements available to a
 
 ## References
 - https://www.insidetracker.com/about/
-- https://www.forbes.com/health/wellness/insidetracker-review/
+- https://www.forbes.com/health/wellness/insidetracker-review/#:~:text=The%20InsideTracker%20Experience,-The%20information%20I&text=A%20quick%20glance%20of%20the,customer%20service%20to%20troubleshoot%20issues.
 - https://www.cbinsights.com/company/segterra
 - https://www.crunchbase.com/organization/segterra-insidetracker
 - https://www.owler.com/company/insidetracker
